@@ -1,0 +1,19 @@
+div {
+    text-align: center;
+    border: 3px solid black;
+    margin: 10px;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.green {
+    background-color: green;
+}
+
+.purple {
+    background-color:purple;
+}
